@@ -1,0 +1,386 @@
+{
+  "collection": "ai-ml-experiments",
+  "prepared": "2026-10-12",
+  "attribution_policy": "Recovered student work can include course scaffolding and referenced tutorials. No blanket license or sole-authorship claim is made for those portions. Original attribution comments are retained.",
+  "files": [
+    {
+      "file": "fundamentals/perceptron-and.ipynb",
+      "source_filename": "perceptron-and.ipynb",
+      "course": "CSCE A415 Machine Learning, Spring 2025",
+      "topic": "Single perceptron: AND",
+      "source_context": "Recovered student coursework and personal coursework archive",
+      "attribution": "Student coursework may adapt course-provided scaffolding; exact line ownership is not fully established. Existing source references remain in code.",
+      "status": "Small completed exercise; no reproducibility claim.",
+      "preparation": [
+        "Removed outputs, execution counters, embedded attachments, original metadata and instructional markdown.",
+        "Removed assignment-question comments; retained code and source-attribution comments."
+      ],
+      "retained_original_code_cell_indices": [
+        0,
+        1
+      ]
+    },
+    {
+      "file": "regression/gradient-descent.ipynb",
+      "source_filename": "linear-regression-gradient.ipynb",
+      "course": "CSCE A415 Machine Learning, Spring 2025",
+      "topic": "Linear regression with manual gradient descent",
+      "source_context": "Recovered student coursework and personal coursework archive",
+      "attribution": "Student coursework may adapt course-provided scaffolding; exact line ownership is not fully established. Existing source references remain in code.",
+      "status": "Educational implementation on synthetic data.",
+      "preparation": [
+        "Removed outputs, execution counters, embedded attachments, original metadata and instructional markdown.",
+        "Removed assignment-question comments; retained code and source-attribution comments."
+      ],
+      "retained_original_code_cell_indices": [
+        0,
+        1
+      ]
+    },
+    {
+      "file": "regression/diabetes-regression.ipynb",
+      "source_filename": "linear-regression.ipynb",
+      "course": "CSCE A415 Machine Learning, Spring 2025",
+      "topic": "Linear regression with scikit-learn",
+      "source_context": "Recovered student coursework and personal coursework archive",
+      "attribution": "Student coursework may adapt course-provided scaffolding; exact line ownership is not fully established. Existing source references remain in code.",
+      "status": "Completed scaffold exercise; teaching prose omitted.",
+      "preparation": [
+        "Removed outputs, execution counters, embedded attachments, original metadata and instructional markdown.",
+        "Removed assignment-question comments; retained code and source-attribution comments."
+      ],
+      "retained_original_code_cell_indices": [
+        2,
+        4,
+        6,
+        8,
+        10,
+        12,
+        14,
+        16,
+        18
+      ]
+    },
+    {
+      "file": "regression/two-feature-gradient-descent.ipynb",
+      "source_filename": "inProgess_MultipleLinReg (1).ipynb",
+      "course": "CSCE A415 Machine Learning, Spring 2025",
+      "topic": "Two-feature gradient descent",
+      "source_context": "Recovered student coursework and personal coursework archive",
+      "attribution": "Student coursework may adapt course-provided scaffolding; exact line ownership is not fully established. Existing source references remain in code.",
+      "status": "Two-feature portion only; broken generalized-feature draft excluded.",
+      "preparation": [
+        "Removed outputs, execution counters, embedded attachments, original metadata and instructional markdown.",
+        "Removed assignment-question comments; retained code and source-attribution comments.",
+        "Published only the listed substantive code cells; omitted incomplete or setup-only cells."
+      ],
+      "retained_original_code_cell_indices": [
+        0,
+        1
+      ]
+    },
+    {
+      "file": "classification/knn-iris.ipynb",
+      "source_filename": "knn-iris.ipynb",
+      "course": "CSCE A415 Machine Learning, Spring 2025",
+      "topic": "Iris nearest neighbors and decision regions",
+      "source_context": "Recovered student coursework and personal coursework archive",
+      "attribution": "Student coursework may adapt course-provided scaffolding; exact line ownership is not fully established. Existing source references remain in code.",
+      "status": "Educational comparison with cross-validation.",
+      "preparation": [
+        "Removed outputs, execution counters, embedded attachments, original metadata and instructional markdown.",
+        "Removed assignment-question comments; retained code and source-attribution comments."
+      ],
+      "retained_original_code_cell_indices": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "file": "classification/heart-disease-tree.ipynb",
+      "source_filename": "decision-trees.ipynb",
+      "course": "CSCE A415 Machine Learning, Spring 2025",
+      "topic": "Decision-tree classification exercise",
+      "source_context": "Recovered student coursework and personal coursework archive",
+      "attribution": "Student coursework may adapt course-provided scaffolding; exact line ownership is not fully established. Existing source references remain in code.",
+      "status": "Legacy experiment; label handling and evaluation require review. Not a clinical model.",
+      "preparation": [
+        "Removed outputs, execution counters, embedded attachments, original metadata and instructional markdown.",
+        "Removed assignment-question comments; retained code and source-attribution comments."
+      ],
+      "retained_original_code_cell_indices": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "file": "classification/wine-ensembles.ipynb",
+      "source_filename": "ensemble-learning.ipynb",
+      "course": "CSCE A415 Machine Learning, Spring 2025",
+      "topic": "Wine classification with ensembles",
+      "source_context": "Recovered student coursework and personal coursework archive",
+      "attribution": "Student coursework may adapt course-provided scaffolding; exact line ownership is not fully established. Existing source references remain in code.",
+      "status": "Educational decision-tree, random-forest, XGBoost and stacking comparison.",
+      "preparation": [
+        "Removed outputs, execution counters, embedded attachments, original metadata and instructional markdown.",
+        "Removed assignment-question comments; retained code and source-attribution comments."
+      ],
+      "retained_original_code_cell_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        6,
+        7
+      ]
+    },
+    {
+      "file": "classification/nonlinear-mlp.ipynb",
+      "source_filename": "multilayer-perceptron.ipynb",
+      "course": "CSCE A415 Machine Learning, Spring 2025",
+      "topic": "Nonlinear classification with an MLP",
+      "source_context": "Recovered student coursework and personal coursework archive",
+      "attribution": "Student coursework may adapt course-provided scaffolding; exact line ownership is not fully established. Existing source references remain in code.",
+      "status": "Synthetic-data comparison with logistic regression.",
+      "preparation": [
+        "Removed outputs, execution counters, embedded attachments, original metadata and instructional markdown.",
+        "Removed assignment-question comments; retained code and source-attribution comments."
+      ],
+      "retained_original_code_cell_indices": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "file": "clustering/hierarchical-clustering.ipynb",
+      "source_filename": "hierarchical-vs-kmeans.ipynb",
+      "course": "CSCE A415 Machine Learning, Spring 2025",
+      "topic": "Hierarchical clustering",
+      "source_context": "Recovered student coursework and personal coursework archive",
+      "attribution": "Student coursework may adapt course-provided scaffolding; exact line ownership is not fully established. Existing source references remain in code.",
+      "status": "Completed synthetic-data and Iris cells only; unfinished image segmentation omitted.",
+      "preparation": [
+        "Removed outputs, execution counters, embedded attachments, original metadata and instructional markdown.",
+        "Removed assignment-question comments; retained code and source-attribution comments.",
+        "Published only the listed substantive code cells; omitted incomplete or setup-only cells."
+      ],
+      "retained_original_code_cell_indices": [
+        0,
+        1
+      ]
+    },
+    {
+      "file": "clustering/kmeans-distance-experiments.ipynb",
+      "source_filename": "kmeans-distance.ipynb",
+      "course": "CSCE A415 Machine Learning, Spring 2025",
+      "topic": "K-means and distance-feature experiments",
+      "source_context": "Recovered student coursework and personal coursework archive",
+      "attribution": "Student coursework may adapt course-provided scaffolding; exact line ownership is not fully established. Existing source references remain in code.",
+      "status": "Historical experiment: transformed distance features do not change the native Euclidean KMeans objective.",
+      "preparation": [
+        "Removed outputs, execution counters, embedded attachments, original metadata and instructional markdown.",
+        "Removed assignment-question comments; retained code and source-attribution comments."
+      ],
+      "retained_original_code_cell_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "file": "neural-networks/power-plant-regression.ipynb",
+      "source_filename": "power-plant-regression.ipynb",
+      "course": "CSCE A415 Machine Learning, Spring 2025",
+      "topic": "Power-plant MLP regression",
+      "source_context": "Recovered student coursework and personal coursework archive",
+      "attribution": "Student coursework may adapt course-provided scaffolding; exact line ownership is not fully established. Existing source references remain in code.",
+      "status": "Legacy experiment with data leakage: scaler is fit before the train/test split. Metrics are not validated.",
+      "preparation": [
+        "Removed outputs, execution counters, embedded attachments, original metadata and instructional markdown.",
+        "Removed assignment-question comments; retained code and source-attribution comments."
+      ],
+      "retained_original_code_cell_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "file": "neural-networks/bike-sharing-regression.ipynb",
+      "source_filename": "goozen_BikeSharing.ipynb",
+      "course": "CSCE A415 Machine Learning, Spring 2025",
+      "topic": "Bike-sharing MLP regression",
+      "source_context": "Recovered student coursework and personal coursework archive",
+      "attribution": "Student coursework may adapt course-provided scaffolding; exact line ownership is not fully established. Existing source references remain in code.",
+      "status": "Legacy experiment; scaling precedes the split and must be corrected before interpreting evaluation.",
+      "preparation": [
+        "Removed outputs, execution counters, embedded attachments, original metadata and instructional markdown.",
+        "Removed assignment-question comments; retained code and source-attribution comments.",
+        "Applied documented portable-data or synthetic-fixture edits; see topic README."
+      ],
+      "retained_original_code_cell_indices": [
+        0,
+        1
+      ]
+    },
+    {
+      "file": "drafts/ecg-anomaly-detection.ipynb",
+      "source_filename": "anomaly-detection.ipynb",
+      "course": "CSCE A415 Machine Learning, Spring 2025",
+      "topic": "ECG autoencoder and clustering experiment",
+      "source_context": "Recovered student coursework and personal coursework archive",
+      "attribution": "Student coursework may adapt course-provided scaffolding; exact line ownership is not fully established. Existing source references remain in code.",
+      "status": "Partial: find_distances is defined after its first use. Reorder and audit evaluation before running. Not a clinical model.",
+      "preparation": [
+        "Removed outputs, execution counters, embedded attachments, original metadata and instructional markdown.",
+        "Removed assignment-question comments; retained code and source-attribution comments."
+      ],
+      "retained_original_code_cell_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "file": "drafts/mri-image-classification.ipynb",
+      "source_filename": "goozen_BrainTumor_MRI.ipynb",
+      "course": "CSCE A415 Machine Learning, Spring 2025",
+      "topic": "MRI image-classification coursework",
+      "source_context": "Recovered student coursework and personal coursework archive",
+      "attribution": "Student coursework may adapt course-provided scaffolding; exact line ownership is not fully established. Existing source references remain in code.",
+      "status": "Partial: validation generator shuffles predictions; MLP evaluation incorrectly reuses the CNN model. Dataset omitted. Not a clinical model.",
+      "preparation": [
+        "Removed outputs, execution counters, embedded attachments, original metadata and instructional markdown.",
+        "Removed assignment-question comments; retained code and source-attribution comments.",
+        "Applied documented portable-data or synthetic-fixture edits; see topic README."
+      ],
+      "retained_original_code_cell_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "file": "search/maze-informed-search.ipynb",
+      "source_filename": "maze-search.ipynb",
+      "course": "CSCE A405 Artificial Intelligence, Fall 2025",
+      "topic": "A-star and greedy maze-search comparison",
+      "source_context": "Recovered student coursework and personal coursework archive",
+      "attribution": "Student coursework may adapt course-provided scaffolding; exact line ownership is not fully established. Existing source references remain in code.",
+      "status": "Historical comparison. Both implementations share a function name; reconstructed paths omit the start and are reversed.",
+      "preparation": [
+        "Removed outputs, execution counters, embedded attachments, original metadata and instructional markdown.",
+        "Removed assignment-question comments; retained code and source-attribution comments."
+      ],
+      "retained_original_code_cell_indices": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "file": "text-classification/newsgroups-naive-bayes.ipynb",
+      "source_filename": "goozen_newsGroupsNB.ipynb",
+      "course": "CSCE A405 Artificial Intelligence, Fall 2025",
+      "topic": "20 Newsgroups naive Bayes",
+      "source_context": "Recovered student coursework and personal coursework archive",
+      "attribution": "Student coursework may adapt course-provided scaffolding; exact line ownership is not fully established. Existing source references remain in code.",
+      "status": "Legacy comparison. Printed sample text is indexed from the unsplit dataset and may not match its prediction; dense test conversion is unnecessary.",
+      "preparation": [
+        "Removed outputs, execution counters, embedded attachments, original metadata and instructional markdown.",
+        "Removed assignment-question comments; retained code and source-attribution comments."
+      ],
+      "retained_original_code_cell_indices": [
+        0,
+        1
+      ]
+    },
+    {
+      "file": "classification/mnist-naive-bayes.ipynb",
+      "source_filename": "mnist_classification.ipynb",
+      "course": "Machine learning / artificial intelligence coursework, 2025",
+      "topic": "MNIST naive Bayes",
+      "source_context": "Recovered student coursework and personal coursework archive",
+      "attribution": "Student coursework may adapt course-provided scaffolding; exact line ownership is not fully established. Existing source references remain in code.",
+      "status": "Legacy educational experiment; outputs removed and model training not rerun.",
+      "preparation": [
+        "Removed outputs, execution counters, embedded attachments, original metadata and instructional markdown.",
+        "Removed assignment-question comments; retained code and source-attribution comments.",
+        "Published only the listed substantive code cells; omitted incomplete or setup-only cells."
+      ],
+      "retained_original_code_cell_indices": [
+        1
+      ]
+    },
+    {
+      "file": "neural-networks/cifar10-cnn.ipynb",
+      "source_filename": "cifar_classification.ipynb",
+      "course": "Machine learning / artificial intelligence coursework, 2025",
+      "topic": "CIFAR-10 convolutional classifier",
+      "source_context": "Recovered student coursework and personal coursework archive",
+      "attribution": "Student coursework may adapt course-provided scaffolding; exact line ownership is not fully established. Existing source references remain in code.",
+      "status": "Legacy educational experiment; outputs removed and model training not rerun.",
+      "preparation": [
+        "Removed outputs, execution counters, embedded attachments, original metadata and instructional markdown.",
+        "Removed assignment-question comments; retained code and source-attribution comments.",
+        "Published only the listed substantive code cells; omitted incomplete or setup-only cells."
+      ],
+      "retained_original_code_cell_indices": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "file": "text-classification/reuters-rnn-lstm.ipynb",
+      "source_filename": "reuters_classification.ipynb",
+      "course": "Machine learning / artificial intelligence coursework, 2025",
+      "topic": "Reuters RNN and LSTM experiments",
+      "source_context": "Recovered student coursework and personal coursework archive",
+      "attribution": "Student coursework may adapt course-provided scaffolding; exact line ownership is not fully established. Existing source references remain in code.",
+      "status": "Legacy educational experiment; outputs removed and model training not rerun.",
+      "preparation": [
+        "Removed outputs, execution counters, embedded attachments, original metadata and instructional markdown.",
+        "Removed assignment-question comments; retained code and source-attribution comments.",
+        "Published only the listed substantive code cells; omitted incomplete or setup-only cells."
+      ],
+      "retained_original_code_cell_indices": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    }
+  ]
+}
